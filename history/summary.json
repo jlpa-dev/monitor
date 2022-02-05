@@ -4,19 +4,19 @@
     "url": "https://jlpa-dev.github.io/brain/",
     "icon": "https://favicons.githubusercontent.com/jlpa-dev.github.io",
     "slug": "blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 112,
-    "timeDay": 124,
-    "timeWeek": 124,
-    "timeMonth": 87,
+    "timeDay": 132,
+    "timeWeek": 127,
+    "timeMonth": 89,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2022-02-05": 0
+      "2022-02-05": 35
     }
   }
 ]
