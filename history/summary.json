@@ -2,7 +2,7 @@
   {
     "name": "Blog",
     "url": "https://jlpa-dev.github.io/brain/",
-    "icon": "https://favicons.githubusercontent.com/jlpa-dev.github.io",
+    "icon": "https://icons.duckduckgo.com/ip3/jlpa-dev.github.io.ico",
     "slug": "blog",
     "status": "up",
     "uptime": "99.99%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 118,
-    "timeDay": 133,
-    "timeWeek": 97,
-    "timeMonth": 122,
+    "timeDay": 27,
+    "timeWeek": 82,
+    "timeMonth": 114,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2022-02-05": 35
