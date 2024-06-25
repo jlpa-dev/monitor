@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jlpa-dev.github.io.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "95.54%",
+    "uptime": "95.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.92%",
+    "uptimeYear": "90.19%",
     "time": 114,
-    "timeDay": 282,
-    "timeWeek": 90,
-    "timeMonth": 101,
-    "timeYear": 106,
+    "timeDay": 24,
+    "timeWeek": 76,
+    "timeMonth": 96,
+    "timeYear": 105,
     "dailyMinutesDown": {
       "2023-07-30": 1235,
       "2023-07-29": 1440,
@@ -49,8 +49,7 @@
       "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
-      "2023-06-27": 1440,
-      "2023-06-26": 1440
+      "2023-06-27": 1440
     }
   }
 ]
