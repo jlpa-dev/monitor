@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jlpa-dev.github.io.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "96.21%",
+    "uptime": "96.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 223,
-    "timeWeek": 114,
-    "timeMonth": 137,
-    "timeYear": 116,
+    "timeDay": 192,
+    "timeWeek": 129,
+    "timeMonth": 140,
+    "timeYear": 117,
     "dailyMinutesDown": {}
   }
 ]
