@@ -4,17 +4,19 @@
     "url": "https://jlpa-dev.github.io/brain/",
     "icon": "https://icons.duckduckgo.com/ip3/jlpa-dev.github.io.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "96.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 165,
-    "timeWeek": 206,
+    "timeDay": 164,
+    "timeWeek": 201,
     "timeMonth": 178,
     "timeYear": 145,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-22": 5
+    }
   }
 ]
