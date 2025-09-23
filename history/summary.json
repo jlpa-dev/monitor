@@ -6,17 +6,15 @@
     "slug": "blog",
     "status": "up",
     "uptime": "96.91%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 164,
-    "timeWeek": 201,
-    "timeMonth": 178,
+    "timeDay": 157,
+    "timeWeek": 200,
+    "timeMonth": 174,
     "timeYear": 145,
-    "dailyMinutesDown": {
-      "2025-09-22": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
